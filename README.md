@@ -1,2 +1,3 @@
 # git-group-morning
-const name = 'Keenan Hillerbrand'
+
+const name = "Colin MacDonald"
